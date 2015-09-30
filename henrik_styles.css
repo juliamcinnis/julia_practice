@@ -1,0 +1,55 @@
+h1{
+	color: blue;
+	font-size: 26pt;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+}
+
+h2{
+	color: navy;
+	font-size: 20pt;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+
+}
+
+.subheading {
+	color: blue;
+	font-weight: 500;
+	text-transform: uppercase;
+}
+
+.othertitle {
+	color: navy;
+	font-size: 15pt;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+}
+
+.avatar {
+	border-radius: 50%;
+}
+
+.card {
+    border: thin navy 1px (155, 17, 21, 1.0) solid;
+      border-radius: 20px;
+      margin-bottom: 10px;
+      box-shadow: 2px 2px 5px 0 gray; 
+  }
+
+  ul {
+  	list-style-type: none; 
+  }
+
+  table {
+  	width: 100%; 
+  }
+
+  
+
+
+      border: thin navy solid;
+    margin-bottom: 15px;
+    border-radius: 20px;
+
+
